@@ -6,6 +6,7 @@ public class UserManger {
 
     private static UserManger instance;
 
+
     private Context context;
 
     private UserManger(Context context) {

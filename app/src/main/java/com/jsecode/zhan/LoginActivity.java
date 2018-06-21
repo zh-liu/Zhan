@@ -37,6 +37,7 @@ public class LoginActivity extends Activity {
 
 
 
+
        // UserManger userManger = UserManger.getInstance(this);
 
 //        Intent intent = new Intent(this,TestActivity.class);

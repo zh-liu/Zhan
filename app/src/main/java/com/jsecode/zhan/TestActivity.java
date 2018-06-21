@@ -11,6 +11,7 @@ public class TestActivity extends Activity {
         setContentView(R.layout.activity_test);
         TextView textView = (TextView) findViewById(R.id.test_text_view);
 
+
         TestDataModel.getInstance().setRetainedTextView(textView);
     }
 }

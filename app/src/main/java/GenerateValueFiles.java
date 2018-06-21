@@ -151,6 +151,7 @@ public class GenerateValueFiles {
                 baseH = Integer.parseInt(args[1]);
                 addition = args[2];
             } else if (args.length >= 2) {
+
                 baseW = Integer.parseInt(args[0]);
                 baseH = Integer.parseInt(args[1]);
             } else if (args.length >= 1) {
